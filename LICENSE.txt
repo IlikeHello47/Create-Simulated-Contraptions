@@ -1,0 +1,19 @@
+END-USER LICENSE AGREEMENT (EULA)
+
+Copyright (c) 2026 IlikeHello47
+Contact for Permission: notilikehello_lol on Discord
+
+1. OWNERSHIP AND ATTRIBUTION
+This software and its source code are the sole property of the Author IlikeHello47. Any permitted use, distribution, or showcase of this software or its code MUST clearly, visibly, and prominently credit the Author.
+
+2. PRIOR WRITTEN PERMISSION REQUIRED
+You are NOT allowed to use, copy, modify, merge, publish, distribute, sublicense, or sell this software, its binary (.jar file), or its source code without the prior explicit written permission of the Author. 
+
+3. DIRECT USE RESTRICTION
+Using, redistributing, or re-uploading this software or code in its original, unmodified, or barely modified form is strictly prohibited unless specifically authorized by the Author.
+
+4. HOW TO REQUEST PERMISSION
+If you wish to use this software or its code in your project, you must contact the Author directly via the contact information provided above and obtain written confirmation before deployment.
+
+5. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
